@@ -1,30 +1,3 @@
-// let counter = 0;
-// let decrease = document.getElementById('decrease');
-// let reset = document.getElementById('reset');
-// let increase = document.getElementById('increase');
-
-// decrease.addEventListener('click', function(){
-//     document.getElementById('value').innerText = decreaseCounter();
-// });
-// increase.addEventListener('click', function(){
-//     document.getElementById('value').innerText = increaseCounter();
-// });
-// reset.addEventListener('click', function(){
-//     document.getElementById('value').innerText = resetValue();
-// });
-// function decreaseCounter(){
-//     let counterDecrease = --counter;
-//     return counterDecrease;
-// }
-// function increaseCounter(){
-//     let counterIncrease = ++counter;
-//     return counterIncrease;
-// }
-// function resetValue(){
-//     let resetCounter = counter - document.getElementById('value').innerText;
-//     return resetCounter;
-// }
-
 // set inital value to zero
 let count = 0;
 // select value and buttons
